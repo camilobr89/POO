@@ -1,9 +1,6 @@
-import email
-
-
 class Account:
-    id = int
-    name = str
-    document = str
-    email = str
-    password = str
+    id          = int
+    name        = str
+    document    = str
+    email       = str
+    password    = str
